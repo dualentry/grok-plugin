@@ -71,10 +71,7 @@ Find the vendor "Acme Supplies" and list open bills.
 
 ## Server URL
 
-| Environment | URL |
-|---|---|
-| Production | `https://api.dualentry.com/mcp/` |
-| Development | `https://api-dev.dualentry.com/mcp/` |
+`https://api.dualentry.com/mcp/`
 
 Auth uses OAuth 2.1 with PKCE and dynamic client registration. See [MCP integration](https://docs.dualentry.com/developers/guides/mcp-integration).
 
