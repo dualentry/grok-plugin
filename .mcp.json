@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "dualentry": {
+      "type": "http",
+      "url": "https://api.dualentry.com/mcp/",
+      "note": "Official DualEntry hosted MCP server. Uses OAuth 2.1 with PKCE and dynamic client registration. On first connection the agent opens a browser for DualEntry sign-in. Do not paste an API key."
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dualentry",
+  "version": "1.0.0",
+  "description": "DualEntry accounting MCP. Query the live ledger, search records and entities, and draft accounting changes with the same permissions as the DualEntry dashboard.",
+  "author": {
+    "name": "DualEntry",
+    "url": "https://dualentry.com"
+  },
+  "homepage": "https://docs.dualentry.com/developers/guides/mcp-integration",
+  "repository": "https://github.com/dualentry/grok-plugin",
+  "keywords": [
+    "dualentry",
+    "dualentry accounting",
+    "dualentry ledger",
+    "dualentry mcp",
+    "dualentry journal entry"
+  ]
+}
